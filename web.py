@@ -4,7 +4,7 @@ st.subheader("Devos is an instagram page that shares data science , programming 
 st.title("Links")
 st.subheader("Post :  first step to learn programming")
 st.write(" [crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)")
-st.video('https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo')
+st.video('https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=1&t=5s')
 st.subheader("Post :  second step to learn programming ")
 st.write("[python course in arabic](https://www.edraak.org/course/course-v1:PSUT+PL101+2018_SP/)")
 st.write("[python coursera university of michigen](https://www.coursera.org/specializations/python)")
