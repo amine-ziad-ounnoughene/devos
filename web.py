@@ -9,6 +9,8 @@ st.subheader("Post :  second step to learn programming ")
 st.write("[python course in arabic](https://www.edraak.org/course/course-v1:PSUT+PL101+2018_SP/)")
 st.write("[python coursera university of michigen](https://www.coursera.org/specializations/python)")
 st.write("[free code camp python course in 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw&t=8137s)")
+
+st.video("https://www.youtube.com/watch?v=rfscVS0vtbw&t=8137s")
 st.subheader('data viz : top 5 graphs in plotly')
 st.write("jupyter notebook [github](https://github.com/amine-ziad-ounnoughene/devos/blob/main/graphs.ipynb)")
 st.code("""## imshow
