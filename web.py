@@ -2,7 +2,7 @@ import streamlit as st
 st.title("**Devos**")
 st.header("Devos is an instagram page that shares data science , programming , tech news and courses and more")
 st.title("Links")
-st.header("**Post :  الخطوة الاولى لتعلم البرمجة**")
+st.write("**Post :  الخطوة الاولى لتعلم البرمجة**")
 st.write(" [crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)")
 st.video('https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo')
 st.write("**Post :  الخطوة الثانية لتعلم البرمجة**")
